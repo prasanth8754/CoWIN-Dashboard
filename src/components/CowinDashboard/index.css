@@ -1,0 +1,50 @@
+.bg-cont {
+  background-color: #161625;
+  min-height: 100vh;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.cont {
+  width: 80%;
+}
+
+.web-logo-cont {
+  display: flex;
+  align-items: center;
+}
+
+.web-logo {
+  width: 50px;
+}
+
+.web-logo-para {
+  color: #2cc6c6;
+  font-size: 25px;
+  padding-left: 10px;
+  font-weight: bold;
+}
+
+.main-h1 {
+  color: #cbd5e1;
+  font-size: 30px;
+}
+
+.failure-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.failure-img {
+  width: 30%;
+}
+.failure-para {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: 'Bree Serif';
+}
